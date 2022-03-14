@@ -1,4 +1,4 @@
 user_embedding_size: 12
 item_embedding_size: 12
-item_hidden_size_list: [64, 64]
-user_hidden_size_list: [64, 64]
+item_hidden_size_list: [32, 16]
+user_hidden_size_list: [32, 16]
